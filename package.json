@@ -1,0 +1,14 @@
+{
+  "name": "pontosinteresse_app",
+  "version": "1.0.0",
+  "description": "node app demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "keywords": [
+    "pontointeresse"
+  ],
+  "author": "marcelo bento",
+  "license": "ISC"
+}
